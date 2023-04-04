@@ -14,6 +14,6 @@ In addition to offering code snippets, WebTools also provides an environment for
 
 To help developers use its tools effectively, WebTools also provides extensive documentation and support. Its API documentation, for example, explains in detail how developers can authenticate their requests, use available endpoints, and handle possible response codes. This level of support helps to ensure that developers can quickly and easily integrate WebTools into their projects.
 
-Overall, the purpose of WebTools is to provide a centralized platform where developers can find, create, and share website solutions, ultimately making web development faster, more efficient, and more accessible for everyone.
+Overall, the purpose of WebTools is to provide a centralised platform where developers can find, create, and share website solutions, ultimately making web development faster, more efficient, and more accessible for everyone.
 
-The API for Webtools is a powerful tool for developers who want to integrate the platform's functionality into their own applications or workflows. By providing programmatic access to its tools and resources, Webtools makes it easier for developers to create customized web solutions that meet their specific needs.
+The API for Webtools is a powerful tool for developers who want to integrate the platform's functionality into their own applications or workflows. By providing programmatic access to its tools and resources, Webtools makes it easier for developers to create customised web solutions that meet their specific needs.
